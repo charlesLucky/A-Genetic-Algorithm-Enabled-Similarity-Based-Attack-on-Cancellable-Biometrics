@@ -1,4 +1,4 @@
-# Please link to this repo[https://github.com/biometricsecurity/On-the-security-risks-of-cancelable-biometrics] for latest version of code 
+# Please link to this [repo](https://github.com/biometricsecurity/On-the-security-risks-of-cancelable-biometrics) for latest version of code 
 
 
 # A Genetic Algorithm Enabled Similarity-Based Attack on Cancellable Biometrics
